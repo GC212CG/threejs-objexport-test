@@ -11,5 +11,4 @@
 <img src="https://github.com/GC212CG/threejs-objexport-test/blob/master/references/demo2.png?raw=true" width=700>
 
 ### Output file (.obj)
-
-<video src="https://github.com/GC212CG/threejs-objexport-test/blob/master/references/demo3.mp4?raw=true" width=700>
+ - [Watch video](https://github.com/GC212CG/threejs-objexport-test/blob/master/references/demo3.mp4?raw=true)
