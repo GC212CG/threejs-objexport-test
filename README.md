@@ -1,4 +1,4 @@
-# Three.js Obj Export Test
+# Three.js Obj Import Export Test
 
 
 
