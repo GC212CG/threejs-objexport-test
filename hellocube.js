@@ -64,6 +64,7 @@ window.onload = function init() {
       mesh.rotation.y = -Math.PI/180*90
       // mesh.scale.set(1,1,1)
       // mesh.rotation.set(0,0,0)
+      mesh.position.set(10,0,0)
       renderer.render(scene, camera);
     });
   });
